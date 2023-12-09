@@ -192,7 +192,7 @@ header .container-1 a{
     border: #00ced1 solid 3px;
     border-radius: 5px;
     cursor: pointer;
-    transition: 1s;
+    transition: 0.5s;
     font-family: 'Fjalla One', sans-serif;
     font-size: 15px;
 }
