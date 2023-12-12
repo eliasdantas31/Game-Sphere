@@ -202,10 +202,30 @@ header .container-1 a{
     color: #fff;
 }
 
-.text{
+.container-xbox p{
     position: relative;
     bottom: 115px;
-    left: 42px;
+    transform: translatex(10%);
+} 
+.container-play p{
+    position: relative;
+    bottom: 115px;
+    transform: translatex(9%);
+} 
+.container-nint p{
+    position: relative;
+    bottom: 115px;
+    transform: translatex(7%);
+} 
+.container-PC p{
+    position: relative;
+    bottom: 115px;
+    transform: translatex(14%);
+} 
+.container-cell p{
+    position: relative;
+    bottom: 115px;
+    transform: translatex(14%);
 }
 
 .footer{
