@@ -72,7 +72,7 @@ body{
 .esqueceu-senha label input{
     accent-color: #fff;
     margin-right: 3px;
-
+    cursor: pointer;
 }
 
 .esqueceu-senha a{
@@ -107,6 +107,7 @@ body{
     font-size: 14,5;
     text-align: center;
     margin: 20px 0 15px;
+    cursor: default;
 }
 
 .registro p a{
